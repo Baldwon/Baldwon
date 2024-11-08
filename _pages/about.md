@@ -7,7 +7,7 @@ subtitle: <a href='#'>University of California, Santa Barbara</a>.
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>4164 Harold Frank Hall</p>
@@ -22,4 +22,4 @@ I'm PhD student in Electrical and Computer Engineering from UC Santa Barbara, ad
 
 My interest lies in the intersection of machine learning and computer architecture. Specifically, bio-inspired machine learning algorithms and efficient ML/LLM computing systems. 
 
-I founded and host [Exodus](https://podcasts.apple.com/us/podcast/%E5%87%BA%E5%9F%83%E5%8F%8A%E8%AE%B0exodus/id1738168003) for Computer Scinence and AI research education.
+<!-- I founded and host [Exodus](https://podcasts.apple.com/us/podcast/%E5%87%BA%E5%9F%83%E5%8F%8A%E8%AE%B0exodus/id1738168003) for Computer Scinence and AI research education. -->
